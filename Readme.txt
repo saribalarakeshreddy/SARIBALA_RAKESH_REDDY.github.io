@@ -1,6 +1,7 @@
 Thanks for downloading this template!
 
-Template Name: Personal
-Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+ =======================================================
+  * Template Name: Personal - v5.0
+  * Author: ClientoClarify.com
+  * License: https://ClientoClarify.com/license/
+  ======================================================== 
